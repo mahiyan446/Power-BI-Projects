@@ -27,23 +27,46 @@
 
 # CPC, Impressions, Clicks and CTR Analysis
 * Identify which keywords have the lowest CPCs and highest CTRs.
-* Analyze the CPC by keyword, match type and other dimensions.
+* Analyze the CPC by keyword, match type, and other dimensions.
 * Compare the CPCs to competitors.
 * Use this information to make decisions about which keywords to bid more on, and which ones to bid less on or remove altogether.
 * Identify which keywords are getting the most impressions.
 * Analyze the impressions by keyword, match type, device, and other dimensions.
 * Look for trends in impressions and clicks over time.
-* Use this information to make decisions about which keywords to add to your campaigns, and which ones to remove.
+* Use this information to decide which keywords to add to your campaigns, and which ones to remove.
 
 # Initial Exploration
 * Total Impressions - 32k
 * Total Clicks - 1600
 * Total Sales - 1760 AUD
-* AVG CPC - 0.22 
+* AVG CPC - 0.22
+
+# Insights Explored
+* The data shows that Alice's total impressions increased by 57.77% from 2021 to 2022. This suggests that her products are becoming less visible in search results.
+* ROAS (return on ad spend) also decreased in 2022 compared to 2021. This suggests that she is spending more money on advertising, but she is getting less value in return.
+  
 
 # Dashboard 
 
 ![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/3d3b9846-490e-487b-8344-201340c9f307)
+
+![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/788bdddf-34b2-4746-aa61-507929f8094f)
+
+
+
+![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/90649466-ce8d-434d-a04f-4d49dac04d0d)
+
+![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/16102a4e-9459-4e68-b3e3-be940dfa8494)
+
+
+
+
+
+![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/f5e21b90-8de4-4be9-818c-31fb61d0029a)
+
+
+
+
 
 
 
