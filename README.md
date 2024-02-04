@@ -1,5 +1,5 @@
 # Marketing-Ads-Analysis
-
+This repository contains an Amazon Ads analysis project based on an Amazon bookseller. It was part of a Technical test for AutoBizz Team
 
 # Dataset Attribute Information
 *	Campaign Start Date
@@ -42,7 +42,7 @@
 * AVG CPC - 0.22
 
 # Insights Explored
-* The data shows that Alice's total impressions increased by 57.77% from 2021 to 2022. This suggests that her products are becoming less visible in search results.
+* The data shows that total impressions increased by 57.77% from 2021 to 2022. This suggests that her products are becoming less visible in search results.
 * ROAS (return on ad spend) also decreased in 2022 compared to 2021. This suggests that she is spending more money on advertising, but she is getting less value in return.
   
 
