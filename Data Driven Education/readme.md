@@ -2,6 +2,7 @@
 # Data- Driven Education Analysis
 The report represents a detailed analysis of student performance across different school years, semesters, schools, etc., for Fort Vermilion School Division - Alberta, Canada. This challenge  is to delve deep into educational data and assisting the School Division with strategic planning for assessments, comprehending student performance, and determining the necessary teacher resources for future enhancements.
 
+Live interactive Power BI dashboard: https://app.powerbi.com/view?r=eyJrIjoiYWYxNmNkNjUtMzM4YS00MTlkLTkwYmMtMDEyMTk3ZTAwZjVhIiwidCI6IjY0ZDAxMjEwLTZlOGQtNDVmMC1hODRiLWI0MmI2MDEwMjQ0NiIsImMiOjEwfQ%3D%3D
 
 # Dataset Attribute Information
 *	Standard Score
