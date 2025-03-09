@@ -4,6 +4,9 @@ The report represents a detailed analysis of student performance across differen
 
 Live interactive Power BI dashboard: https://app.powerbi.com/view?r=eyJrIjoiYWYxNmNkNjUtMzM4YS00MTlkLTkwYmMtMDEyMTk3ZTAwZjVhIiwidCI6IjY0ZDAxMjEwLTZlOGQtNDVmMC1hODRiLWI0MmI2MDEwMjQ0NiIsImMiOjEwfQ%3D%3D
 
+![image](https://github.com/user-attachments/assets/606bf795-ae21-43b6-87d0-9ad87d4f960c)
+
+
 # Dataset Attribute Information
 *	Standard Score
 *	Assessement Level ID
