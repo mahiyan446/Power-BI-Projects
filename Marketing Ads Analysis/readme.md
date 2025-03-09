@@ -1,6 +1,26 @@
 # Marketing-Ads-Analysis
 This repository contains an Amazon Ads analysis project based on an Amazon bookseller. It was part of a Technical test for AutoBizz Team
 
+# Dashboard 
+
+![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/3d3b9846-490e-487b-8344-201340c9f307)
+
+![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/788bdddf-34b2-4746-aa61-507929f8094f)
+
+
+
+![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/90649466-ce8d-434d-a04f-4d49dac04d0d)
+
+![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/16102a4e-9459-4e68-b3e3-be940dfa8494)
+
+
+
+
+
+![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/f5e21b90-8de4-4be9-818c-31fb61d0029a)
+
+
+
 # Dataset Attribute Information
 *	Campaign Start Date
 *	Campaign End Date 
@@ -45,24 +65,6 @@ This repository contains an Amazon Ads analysis project based on an Amazon books
 * The data shows that total impressions decreased by 57.77% from 2021 to 2022. This suggests that her products are becoming less visible in search results.
 * ROAS (return on ad spend) also decreased in 2022 compared to 2021. This suggests that she is spending more money on advertising, but she is getting less value in return.
   
-
-# Dashboard 
-
-![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/3d3b9846-490e-487b-8344-201340c9f307)
-
-![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/788bdddf-34b2-4746-aa61-507929f8094f)
-
-
-
-![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/90649466-ce8d-434d-a04f-4d49dac04d0d)
-
-![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/16102a4e-9459-4e68-b3e3-be940dfa8494)
-
-
-
-
-
-![image](https://github.com/mahiyan446/Marketing-Ads-Analysis/assets/138512359/f5e21b90-8de4-4be9-818c-31fb61d0029a)
 
 
 
